@@ -1,0 +1,22 @@
+
+
+#mybutton  {
+    border: double line red;
+    border-radius: 5px;
+    font-size: 50px;
+    background-color: blueviolet;   
+}
+
+#mybutton:hover {
+    background-color: rgb(237, 49, 80);
+    outline: rgb(6, 0, 12) solid;
+}
+
+
+.imagebox{
+    border: 5px solid rgb(34, 2, 21);
+    width: 800px;
+    height: 600px;
+    margin: 20px;
+    padding: 30PX;
+}
